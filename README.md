@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rixshii67-ai/Leetcode/tree/master/0013-roman-to-integer) |
+| [3838-weighted-word-mapping](https://github.com/rixshii67-ai/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rixshii67-ai/Leetcode/tree/master/0001-two-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rixshii67-ai/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rixshii67-ai/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3838-weighted-word-mapping](https://github.com/rixshii67-ai/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rixshii67-ai/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3838-weighted-word-mapping](https://github.com/rixshii67-ai/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Database
 |  |
 | ------- |
