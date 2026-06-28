@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rixshii67-ai/Leetcode/tree/master/0013-roman-to-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rixshii67-ai/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rixshii67-ai/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## String
 |  |
 | ------- |
@@ -47,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rixshii67-ai/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/rixshii67-ai/Leetcode/tree/master/0112-path-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rixshii67-ai/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rixshii67-ai/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/rixshii67-ai/Leetcode/tree/master/0112-path-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rixshii67-ai/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
