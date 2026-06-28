@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rixshii67-ai/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/rixshii67-ai/Leetcode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/rixshii67-ai/Leetcode/tree/master/0207-course-schedule) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rixshii67-ai/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rixshii67-ai/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rixshii67-ai/Leetcode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/rixshii67-ai/Leetcode/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/rixshii67-ai/Leetcode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/rixshii67-ai/Leetcode/tree/master/0994-rotting-oranges) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rixshii67-ai/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rixshii67-ai/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
