@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rixshii67-ai/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/rixshii67-ai/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
