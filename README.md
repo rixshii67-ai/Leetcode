@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rixshii67-ai/Leetcode/tree/master/0001-two-sum) |
+| [0994-rotting-oranges](https://github.com/rixshii67-ai/Leetcode/tree/master/0994-rotting-oranges) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rixshii67-ai/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rixshii67-ai/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3838-weighted-word-mapping](https://github.com/rixshii67-ai/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rixshii67-ai/Leetcode/tree/master/0112-path-sum) |
+| [0994-rotting-oranges](https://github.com/rixshii67-ai/Leetcode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rixshii67-ai/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/rixshii67-ai/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
