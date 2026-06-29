@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rixshii67-ai/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/rixshii67-ai/Leetcode/tree/master/0027-remove-element) |
 | [0994-rotting-oranges](https://github.com/rixshii67-ai/Leetcode/tree/master/0994-rotting-oranges) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rixshii67-ai/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rixshii67-ai/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rixshii67-ai/Leetcode/tree/master/0207-course-schedule) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/rixshii67-ai/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
