@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rixshii67-ai/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/rixshii67-ai/Leetcode/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/rixshii67-ai/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rixshii67-ai/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rixshii67-ai/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0994-rotting-oranges](https://github.com/rixshii67-ai/Leetcode/tree/master/0994-rotting-oranges) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rixshii67-ai/Leetcode/tree/master/0136-single-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rixshii67-ai/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
 |  |
