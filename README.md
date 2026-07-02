@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rixshii67-ai/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/rixshii67-ai/Leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/rixshii67-ai/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rixshii67-ai/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rixshii67-ai/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rixshii67-ai/Leetcode/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rixshii67-ai/Leetcode/tree/master/0053-maximum-subarray) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rixshii67-ai/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rixshii67-ai/Leetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rixshii67-ai/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
