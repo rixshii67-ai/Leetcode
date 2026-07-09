@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rixshii67-ai/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rixshii67-ai/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rixshii67-ai/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/rixshii67-ai/Leetcode/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/rixshii67-ai/Leetcode/tree/master/0994-rotting-oranges) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rixshii67-ai/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rixshii67-ai/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rixshii67-ai/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0704-binary-search](https://github.com/rixshii67-ai/Leetcode/tree/master/0704-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
